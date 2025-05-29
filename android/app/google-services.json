@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "410110431982",
+    "firebase_url": "https://dland-1ad12-default-rtdb.firebaseio.com",
+    "project_id": "dland-1ad12",
+    "storage_bucket": "dland-1ad12.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410110431982:android:ce2db978c0902f842819ff",
+        "android_client_info": {
+          "package_name": "com.example.agentapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH5d2V-0T88v8Uf5-xe8wXq_PAMvf8TDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410110431982:android:9fd02468a3ad778e2819ff",
+        "android_client_info": {
+          "package_name": "com.example.dladmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH5d2V-0T88v8Uf5-xe8wXq_PAMvf8TDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410110431982:android:8d63e2fbe4719ccf2819ff",
+        "android_client_info": {
+          "package_name": "com.example.dreamland"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH5d2V-0T88v8Uf5-xe8wXq_PAMvf8TDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410110431982:android:5f7ada0910c9ca152819ff",
+        "android_client_info": {
+          "package_name": "com.example.dreamlandagent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH5d2V-0T88v8Uf5-xe8wXq_PAMvf8TDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
